@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @powpow58
 - 👀 I’m interested in building apps
-- 🌱 I’m currently learning F#, C++ and Swift
+- 🌱 I’m currently learning F#, C++ and Rust
 - 💞️ I’m looking to collaborate on projects in the F# community 
 - 📫 How to reach me ... email: isiahharvey1@gmail.com
 
